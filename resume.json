@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daneel van Tonder",
-    "label": "Programmer",
-    "picture": "G:GIT\\ReposGit\\HubResumeimgProfile.jpg",
+    "label": "Software Developer / Programmer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQH3gsKrSC1YTA/profile-displayphoto-shrink_200_200/0?e=1587600000&v=beta&t=0dLXbKn6mhfadGrVkP2r-rYzJOZHmXgSCbvH5HN3iCo",
     "email": "dnlvantonder@gmail.com",
     "phone": "+27 72 631 2089",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "website": "https://cybermania.co.za",
+    "summary": "I have completed my studies at CTI education Group and also earned my Bachelor of Science degree through Heriot-Watt University. I love playing with new tech and reading up on the latest trends in the market. Although I've been developing desktop applications from the start of my career until now, I have always had an interest in web development. I'm currently studying on Udemy and also experimenting with technologies like Javascript, Node.js, HTML5, CSS3, SCSS, Bootstrap, Typescript, React.js. I also build wordpress websites for small companies after hours, just to get some exposure to real life web projects.",
     "location": {
       "address": "Brackenfell",
       "postalCode": "7560",
@@ -16,99 +16,148 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Github",
+        "username": "Potenza111",
+        "url": "https://github.com/Potenza111"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Linkedin",
+        "username": "Daneel van Tonder",
+        "url": "https://www.linkedin.com/in/daneel-van-tonder-13136051/"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Pepkor IT",
+      "position": "Developer",
+      "website": "https://www.pepkorit.com/",
+      "startDate": "2013-03-25",
+      "summary": "It Specialists for large retail clothing groups like Ackermans and PEP. Part of the Point of Sale team, we are responsibale for the development of our inhouse Point of sale software which runs at +- 3000 branches and on +- 20 000 tills. This is also not just a Point of sale software, but a complete store management software. From employee leave, ordering stock to cash and card transactions",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Development and upgrades on Point Of Sale software",
+        "Point of sale Software Support",
+        "Scheduling and monitoring of version Rollouts",
+        "Software bug fixing",
+        "Develop supporting apps for helpdesk team",
+        "Database table design for new Point Of sale features",
+        "Development of windows services for error checking and other automated tasks"
+      ]
+    },
+    {
+      "company": "Indy oil",
+      "position": "Operations Supervisor",
+      "website": "http://www.indyoil.co.za/",
+      "startDate": "2009-09-01",
+      "endDate": "2012-02-25",
+      "summary": "Manufacturing and Supplier of word class lubricants for the automotive trade. I was responsibale for all of the warehouse duties. From equipment and transport maintenance to making sure plant runs on schedule and orders gets delivered on time",
+      "highlights": [
+        "Supervising warehouse staff",
+        "Route planning for deliveries, managing drivers",
+        "Goods receiving",
+        "Ordering of raw materials and packaging",
+        "Overseeing Stocktakes",
+        "Maintanance and repairs of equipment and vehicles"
+      ]
+    },
+    {
+      "company": "Indy oil",
+      "position": "Orders Clerk",
+      "website": "http://www.indyoil.co.za/",
+      "startDate": "2008-02-01",
+      "endDate": "2009-08-30",
+      "summary": "Manufacturing and Supplier of word class lubricants for the automotive trade. I was responsibale for taking orders via the telephone and email",
+      "highlights": [
+        "Invoicing",
+        "Printing labels for packaging ",
+        "Processing delivery notes",
+        "Reporting low stock Quantities",
+        "Assisting with stock takes"
+      ]
+    },
+    {
+      "company": "Evolution Hydraulics",
+      "position": "Counter sales/ Store man",
+      "startDate": "2007-02-25",
+      "endDate": "2008-01-30",
+      "summary": "Small Hydraulic Supplies company in Paarden Eiland. I was basically an all arounder here, from sweeping the warhouse floors to selling hydraulic fittings and hoses to customers",
+      "highlights": [
+        "Deliveries",
+        "Assembling hoses",
+        "Counter sales",
+        "Managing stock",
+        "Repairing hydraulic units",
+        "Arranging courier collections",
+        "Overseeing stock takes"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Oklahoma",
+      "institution": "Heriot-Watt University",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
-    }
-  ],
-  "awards": [
+      "startDate": "2014-02-01",
+      "endDate": "2015-02-01",
+      "courses": [
+        "Computer Graphics",
+        "Operations Management",
+        "Software Engineering",
+        "Professional Development",
+        "Interaction Design",
+        "Emerging Technologies",
+        "Knowledge Management"
+      ]
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "institution": "CTI Education Group",
+      "area": "Information Technology",
+      "studyType": "Btech Diploma",
+      "startDate": "2012-03-01",
+      "endDate": "2014-02-01",
+      "courses": [
+        "C# Programming",
+        "PLC",
+        "Software Engineering Analysis",
+        "Database Management",
+        "Program Design",
+        "PHP"
+      ]
     }
   ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": ["HTML", "CSS", "Javascript", "SASS"]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MySQL", "MongoDB"]
+    },
+    {
+      "name": "Desktop Development",
+      "keywords": ["Delphi", "C#"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Afrikaans",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "Sports and Outdoors",
+      "keywords": ["Camping", "Mountain Biking", "Enduro Dirt Dike", "Hiking"]
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Technology",
+      "keywords": ["Raspberri Pi", "Automation", "Arduino", "IOT"]
     }
   ]
 }
